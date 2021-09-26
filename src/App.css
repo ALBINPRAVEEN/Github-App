@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  padding-top: 12em;
+ 
+}
+
+.MuiInputBase-root{
+  width:20rem;
+}
+
+.navRight{
+  margin-left: auto;
+}
+
+.MuiCardActions-root{
+display: inline !important;
+}
+
